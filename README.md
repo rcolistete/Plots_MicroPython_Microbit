@@ -1,5 +1,5 @@
-# Plots_MicroPython_Microbit
-Plot functions in MicroPython for BBC Micro:bit using the display of 5x5 LEDs.
+# Plots in MicroPython for BBC micro:bit
+Plot functions in MicroPython for BBC micro:bit using the display of 5x5 LEDs.
 
 ## Plot Bars v0.1
 #### Documentation :  
